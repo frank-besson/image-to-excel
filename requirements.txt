@@ -1,0 +1,6 @@
+dataclasses==0.6
+imageio==2.19.5
+numpy==1.23.1
+Pillow==9.2.0
+twint @ git+https://github.com/twintproject/twint.git@e7c8a0c764f6879188e5c21e25fb6f1f856a7221
+XlsxWriter==3.0.3
